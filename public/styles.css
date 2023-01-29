@@ -1,0 +1,17 @@
+.heading {
+  font-size: 20px;
+
+  /* border-bottom: 5px solid black; */
+}
+
+.colorRed {
+  color: red;
+}
+
+.colorGreen {
+  color: green;
+}
+
+.colorBlue {
+  color: blue;
+}
